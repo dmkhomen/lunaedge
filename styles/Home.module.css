@@ -29,7 +29,8 @@
 }
 
 .title a {
-  color: #0070f3;
+  /* color: #0070f3; */
+  color: #9806d6;
   text-decoration: none;
 }
 
@@ -115,7 +116,7 @@
   }
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   .card,
   .footer {
     border-color: #222;
@@ -126,4 +127,4 @@
   .logo img {
     filter: invert(1);
   }
-}
+} */
